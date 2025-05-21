@@ -42,4 +42,4 @@ This project is intended for legal document analysis tasks, particularly:
 
 ## License
 
-This repository is licensed under the terms of the LICENSE file.
+This repository is licensed under the terms of the AGPL-3.0 license.
