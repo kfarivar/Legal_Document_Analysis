@@ -1,6 +1,6 @@
 # Legal Document Analysis with LLaMA 3
 
-./repo_image.png
+![](./repo_image.png)
 
 This project leverages Meta's LLaMA 3 model to classify legal documents using a fine-tuned language model approach. It is designed to work with preprocessed document metadata and demonstrates the end-to-end pipeline for classifying legal documents into predefined categories.
 
