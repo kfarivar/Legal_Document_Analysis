@@ -1,4 +1,4 @@
-# Legal Document Analysis with LLaMA 3
+# Zero shot Legal Document Analysis with quantized LLaMA 3.2
 
 ![](./repo_image.png)
 
